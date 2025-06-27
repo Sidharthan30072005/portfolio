@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "portfolio-demo-6f52d"
+  },
+  "targets": {
+    "portfolio-demo-6f52d": {
+      "hosting": {
+        "sidharthan302005": [
+          "portfolio-demo-6f52d"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
